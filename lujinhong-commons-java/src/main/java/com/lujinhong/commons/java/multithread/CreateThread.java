@@ -12,21 +12,21 @@ import java.util.Date;
  */
 public class CreateThread {
 
-
-
-    public static void main(String[] args) {
-        PrintDate pd = new PrintDate();
-        Thread t = new Thread(pd);
-        t.start();
-    }
+	public static void main(String[] args) {
+		//2、使用线程类创建一个线程对象
+		PrintDate pd = new PrintDate();
+		Thread t = new Thread(pd);
+		//3、启动线程
+		t.start();
+	}
 }
-
+//1、创建线程类
 class PrintDate implements Runnable {
 
-    public void run() {
-        for (int i = 0; i < 100; i++) {
-            System.out.println(new Date());
+	public void run() {
+		for (int i = 0; i < 100; i++) {
+			System.out.println(new Date());
 
-        }
-    }
+		}
+	}
 }

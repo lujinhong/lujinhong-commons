@@ -23,11 +23,14 @@ import java.util.Arrays;
 
 public class StormKinit {
 
+	/**
+	 * 
+	 */
 	private final BrokerHosts brokerHosts;
 	private final static String KAFKA_ZK = "1.1.1.1:2181/kafka2";
 	private final static String TOPO_NAME = "ljhtest";
 	private final static String NIMBUS_HOST = "1.1.1.1";
-	
+	private static final String STORM_ZK = "1.1.1.1";
 
 	public StormKinit(String kafkaZookeeper) {
 		brokerHosts = new ZkHosts(kafkaZookeeper);
@@ -66,7 +69,7 @@ public class StormKinit {
 			config.put(Config.NIMBUS_HOST, NIMBUS_HOST);
 			config.put(Config.NIMBUS_THRIFT_PORT, 6627);
 			config.put(Config.STORM_ZOOKEEPER_PORT, 2181);
-			config.put(Config.STORM_ZOOKEEPER_SERVERS, Arrays.asList("1.1.1.1"));
+			config.put(Config.STORM_ZOOKEEPER_SERVERS, Arrays.asList(STORM_ZK));
 			StormSubmitter.submitTopology(TOPO_NAME, config, sentenceAggregationTopology.buildTopology());
 		} else {
 			config.setNumWorkers(2);

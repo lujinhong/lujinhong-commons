@@ -46,7 +46,8 @@ public class PrepaidFunction extends BaseFunction {
 		UserGroupInformation.setConfiguration(config);
 		
 		try {
-			UserGroupInformation.loginUserFromKeytab("hbase/hmaster", "/home/hadoop/keytab/formal.keytab");
+			//UserGroupInformation.loginUserFromKeytab("hbase/hmaster", "/home/hadoop/keytab/formal.keytab");
+			UserGroupInformation.loginUserFromKeytab("gamefriend_us_tmp/storm", "/home/hadoop/storm_keytab/gamefriend_us_tmp.keytab");
 			helper = HBaseHelper.getHelper(config);
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -81,7 +82,7 @@ public class PrepaidFunction extends BaseFunction {
 					//TODO: modify to mutliUpdate
 					//Result r = helper.get("ljhtest", jsonObject.getString("server"), "f1", "cash");
 					//int nowCash = Integer.parseInt(Bytes.toString(r.getValue(Bytes.toBytes("f1"), Bytes.toBytes("cash"))));
-					helper.put("ljhtest", "server", "f1", "cash",  "100");
+					helper.put("test_game_friend_all", "ljhtest", "g18", "ljhtest",  "test");
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
