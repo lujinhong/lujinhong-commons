@@ -22,9 +22,9 @@ public class JedisBasicDemo {
 		} finally {
 			if (jedis != null)
 				jedis.close();
-			
+
 			jedisPool.close();
 		}
-		
+
 	}
 }
