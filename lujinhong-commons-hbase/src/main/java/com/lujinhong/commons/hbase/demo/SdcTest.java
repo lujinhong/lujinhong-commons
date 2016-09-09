@@ -31,7 +31,7 @@ public class SdcTest {
 
 		Configuration conf = HBaseConfiguration.create();
 //		conf.addResource(new Path("/home/hadoop/conf/hbase", "hbase-site.xml"));
-		conf.addResource(new Path("/home/hadoop/hbase-1.0.0-cdh5.4.5/conf", "hbase-site.xml"));
+		conf.addResource(new Path("/home/hadoop/hbase/conf", "hbase-site.xml"));
 		//conf.addResource(new Path("/Users/liaoliuqing/Downloads/conf_loghbase/hbase", "hbase-site.xml"));
 		if (args.length > 0) {
 			conf.set("hadoop.security.authentication", "Kerberos");
