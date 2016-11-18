@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons.iml" filepath="$PROJECT_DIR$/lujinhong-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-algorithm/lujinhong-commons-algorithm.iml" filepath="$PROJECT_DIR$/lujinhong-commons-algorithm/lujinhong-commons-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-dao/lujinhong-commons-dao.iml" filepath="$PROJECT_DIR$/lujinhong-commons-dao/lujinhong-commons-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-hadoop/lujinhong-commons-hadoop.iml" filepath="$PROJECT_DIR$/lujinhong-commons-hadoop/lujinhong-commons-hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-hbase/lujinhong-commons-hbase.iml" filepath="$PROJECT_DIR$/lujinhong-commons-hbase/lujinhong-commons-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-java/lujinhong-commons-java.iml" filepath="$PROJECT_DIR$/lujinhong-commons-java/lujinhong-commons-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-others/lujinhong-commons-others.iml" filepath="$PROJECT_DIR$/lujinhong-commons-others/lujinhong-commons-others.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-scala/lujinhong-commons-scala.iml" filepath="$PROJECT_DIR$/lujinhong-commons-scala/lujinhong-commons-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-spark/lujinhong-commons-spark.iml" filepath="$PROJECT_DIR$/lujinhong-commons-spark/lujinhong-commons-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-storm/lujinhong-commons-storm.iml" filepath="$PROJECT_DIR$/lujinhong-commons-storm/lujinhong-commons-storm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-storm10/lujinhong-commons-storm10.iml" filepath="$PROJECT_DIR$/lujinhong-commons-storm10/lujinhong-commons-storm10.iml" />
+    </modules>
+  </component>
+</project>

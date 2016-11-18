@@ -1,7 +1,7 @@
 package com.lujinhong.commons.java;
 
 /**
- * (Math.abs(Integer.MAX_VALUE)返回的是Integer.MAX_VALUE，即绝对值不生效，返回的还是负数。
+ * (Math.abs(Integer.MIN_VALUE)返回的是Integer.MIN_VALUE，即绝对值不生效，返回的还是负数。
  * 输出：
  * 2147483647
  * -2147483648

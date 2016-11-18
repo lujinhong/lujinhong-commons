@@ -24,7 +24,10 @@ public class TreeSetComparatorDemo {
 		set1.add("lucy");
 		for(String s : set1){
 			System.out.print(s + "\t");
+			System.out.println();
+			System.out.println();
 		}
+
 		
 		System.out.println();
 		

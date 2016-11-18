@@ -21,6 +21,8 @@ public class ScheduledThreadPoolExecutorDemo {
 		executor.scheduleAtFixedRate(task, 1, 1, TimeUnit.SECONDS);
 		//1秒后开始执行task，在一次任务执行完成后1秒再重复执行task，如此循环。
 		//executor.scheduleWithFixedDelay(task, 1, 1, TimeUnit.SECONDS);
+		Thread.sleep(10000);
+		executor.shutdown();
 	}
 }
 
