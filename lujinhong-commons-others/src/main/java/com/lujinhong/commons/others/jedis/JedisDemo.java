@@ -63,9 +63,9 @@ public class JedisDemo {
         ResourceBundle bundle = ResourceBundle.getBundle("redis");
         JedisPoolConfig config = new JedisPoolConfig();//可以设置
         Set<String> sentinels = new HashSet<>();
-        sentinels.add("10.160.200.120:26379");
-        sentinels.add("10.160.200.121:26379");
-        sentinels.add("10.160.200.122:26379");
+        sentinels.add("1.1.1.1:26379");
+        sentinels.add("1.1.1.2:26379");
+        sentinels.add("1.1.1.3:26379");
 
         // config.setMaxActive(Integer.valueOf(bundle.getString("redis.pool.maxActive")));
         //config.setTestOnBorrow(Boolean.valueOf(bundle.getString("redis.pool.testOnBorrow")));
@@ -254,14 +254,14 @@ public class JedisDemo {
         config.setMaxIdle(2);
 
         Set<HostAndPort> hps = new HashSet<HostAndPort>();
-        hps.add(new HostAndPort("10.170.10.83", 6379));
-        hps.add(new HostAndPort("10.170.10.84", 6379));
-        hps.add(new HostAndPort("10.170.10.85", 6379));
-        hps.add(new HostAndPort("10.170.10.86", 6379));
-        hps.add(new HostAndPort("10.170.10.87", 6379));
-        hps.add(new HostAndPort("10.170.10.88", 6379));
-        hps.add(new HostAndPort("10.170.11.83", 6379));
-        hps.add(new HostAndPort("10.170.11.84", 6379));
+        hps.add(new HostAndPort("1.1.1.1", 6379));
+        hps.add(new HostAndPort("1.1.1.2", 6379));
+        hps.add(new HostAndPort("1.1.1.2", 6379));
+        hps.add(new HostAndPort("1.1.1.3", 6379));
+        hps.add(new HostAndPort("1.1.1.4", 6379));
+        hps.add(new HostAndPort("1.1.1.5", 6379));
+        hps.add(new HostAndPort("1.1.1.6", 6379));
+        hps.add(new HostAndPort("1.1.1.7", 6379));
 
         return new JedisCluster(hps, 5000, 10, config);
     }
