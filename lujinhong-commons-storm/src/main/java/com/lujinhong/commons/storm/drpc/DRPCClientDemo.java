@@ -26,7 +26,7 @@ public class DRPCClientDemo {
         conf.put(Config.STORM_NIMBUS_RETRY_INTERVAL_CEILING, 20);
         conf.put(Config.DRPC_MAX_BUFFER_SIZE, 1048576);
         
-		DRPCClient client = new DRPCClient(conf, "10.120.69.118",3772);
+		DRPCClient client = new DRPCClient(conf, "1.1.1.1",3772);
 		
 		String ss = "the cow jumped over the moon";
 		for(String s :ss.split(" ")){

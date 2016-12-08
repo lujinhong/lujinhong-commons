@@ -18,8 +18,7 @@ import org.apache.solr.common.SolrDocument;
 public class QueryDemo {
 
 	private static final String DEFAULT_COLLECTION = "us";
-	private static final String SOLR_ZK = "10.120.69.101:2181/solr55";
-//	private static final String SOLR_ZK = "10.120.69.101:2181/solr";
+	private static final String SOLR_ZK = "1.1.1.1:2181/solr55";
 
 	public static void main(String[] args) throws SolrServerException, IOException {
 		try (CloudSolrClient client = new CloudSolrClient(SOLR_ZK);) {// cloud模式

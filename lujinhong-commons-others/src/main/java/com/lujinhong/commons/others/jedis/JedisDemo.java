@@ -26,7 +26,7 @@ public class JedisDemo {
     public static void main(String[] args) {
         Log.info("begin");
 
-        //sentinalDemo();
+        //sentinelDemo();
         ClusterDemo();
         mgetInDifferentSoltDemo();
         ClusterMgetDemo();
@@ -35,7 +35,7 @@ public class JedisDemo {
     }
 
 
-    private static void sentinalDemo() {
+    private static void sentinelDemo() {
         ResourceBundle bundle = ResourceBundle.getBundle("redis");
         JedisPoolConfig config = new JedisPoolConfig();//可以设置
         // config.setMaxActive(Integer.valueOf(bundle.getString("redis.pool.maxActive")));
@@ -59,9 +59,14 @@ public class JedisDemo {
         }
     }
 
-    private static void sentinalPipelineDemo() throws IOException {
+    private static void sentinelPipelineDemo() throws IOException {
         ResourceBundle bundle = ResourceBundle.getBundle("redis");
         JedisPoolConfig config = new JedisPoolConfig();//可以设置
+        Set<String> sentinels = new HashSet<>();
+        sentinels.add("10.160.200.120:26379");
+        sentinels.add("10.160.200.121:26379");
+        sentinels.add("10.160.200.122:26379");
+
         // config.setMaxActive(Integer.valueOf(bundle.getString("redis.pool.maxActive")));
         //config.setTestOnBorrow(Boolean.valueOf(bundle.getString("redis.pool.testOnBorrow")));
         String host = bundle.getString("redis.host");
@@ -72,8 +77,7 @@ public class JedisDemo {
         //完整有5个参数，分别表示配置信息（有很多的配置选项）、主机、端口、超时设置、密码（这里没提供）简单的方式可以只提供hostname。
         Pipeline pipeline = null;
         try (//1、创建JedisPool对象
-             JedisPool pool = new JedisPool(config, host, port, timeOut);
-             //2、从pool中获取Jedis对象及pipeline对象
+             JedisSentinelPool pool = new JedisSentinelPool("sentinel", sentinels);
              Jedis jedis = pool.getResource();) {
             pipeline = jedis.pipelined();
             //3、操作redis

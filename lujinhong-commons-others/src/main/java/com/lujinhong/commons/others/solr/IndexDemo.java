@@ -24,8 +24,7 @@ import org.apache.solr.common.SolrInputDocument;
 public class IndexDemo {
 
 	private static final String DEFAULT_COLLECTION = "collection_1";
-	// private static final String SOLR_ZK = "10.120.69.101:2181/solr";
-	private static final String SOLR_ZK = "10.120.69.101:2181/solr55";
+	private static final String SOLR_ZK = "1.1.1.1:2181/solr55";
 	private static final int DOC_NUM = 10000;
 
 	public static void main(String[] args) throws SolrServerException, IOException {
