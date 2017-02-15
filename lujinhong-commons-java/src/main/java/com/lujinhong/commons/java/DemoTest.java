@@ -22,16 +22,11 @@ import org.json.JSONObject;
 */
 
 public class DemoTest {
-	
-	
-	public static void main(String[] args) throws Exception{
+	private static final String HIVE_DEFAULT_SEPARATOR = "\\u0001";
 
-		String message = "/home/edt/log/drpf.log [2016-09-22 10:01:14 +0800][adx_req]{\"id\":\"6128267-75040\",\"adx\":\"iqiyi\"}";
-		System.out.println(getMonitorInformation(message));
-		
-        //new Timer().scheduleAtFixedRate(task, 0, TimeUnit.HOURS.toMillis(purgeInterval));
-        System.out.println(TimeUnit.HOURS.toMillis(1));
-        System.out.println(TimeUnit.MINUTES.toMillis(1));
+	public static void main(String[] args) throws Exception{
+		String s = "3.5205001926673745E-5\u00015.194886154069933E-6";
+		System.out.println(s.split(HIVE_DEFAULT_SEPARATOR)[1]);
 	}
 	
 	

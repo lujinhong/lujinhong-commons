@@ -116,7 +116,7 @@ public class JedisDemo {
     }
 
     private static void ClusterDemo() {
-        // 超时，最大的转发数，最大链接数，最小链接数都会影响到集群199,237,204
+        // 超时，最大的转发数，最大链接数，最小链接数都会影响到集群
         try (//1、创建JedisCluster对象
              JedisCluster jedisCluster = initJedisCluster()) {
 
