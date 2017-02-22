@@ -56,6 +56,13 @@ public class CalendarUtils {
         }
     }
 
+    //打印当前时间
+    public static void  printCurrentTime(){
+        System.out.println(Calendar.getInstance().getTime());//Thu Feb 16 18:55:56 CST 2017
+
+    }
+
+
     //判断某个时间是否工作时间。10:00~17:00为工作时间，21:00~06:00为休息时间。输入值为小时。返回值1：工作时间，0：休息时间，-1：其它时间。
     public static String getWorkTime(String time){
         int hour = Integer.parseInt(time);
@@ -72,6 +79,7 @@ public class CalendarUtils {
         System.out.println(getBeforeOrAfterDay("20170201", -1));
         System.out.println(getWeekDay("20170216"));
         System.out.println(Arrays.toString(getLastDays("20170216", 30)));
+        printCurrentTime();
     }
 
 }
