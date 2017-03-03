@@ -1,6 +1,13 @@
-package com.lujinhong.commons.spark
+package com.lujinhong.commons.spark.grepword
 
 import org.apache.spark.SparkContext
+
+/**
+  * AUTHOR: LUJINHONG
+  * CREATED ON: 17/3/2 14:05
+  * PROJECT NAME: Default (Template) Project
+  * DESCRIPTION: 
+  */
 object GrepWord {
   def grepCountLog(sc:SparkContext,path: String, keyWord: String) {
 

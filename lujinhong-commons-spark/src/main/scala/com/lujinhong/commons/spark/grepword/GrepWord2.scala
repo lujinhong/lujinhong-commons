@@ -1,9 +1,6 @@
-package com.lujinhong.commons.spark
+package com.lujinhong.commons.spark.grepword
 
-import org.apache.spark.SparkContext
-import org.apache.spark.SparkConf
-import scala.collection.mutable.HashSet
-import scala.collection.mutable.HashMap
+import org.apache.spark.{SparkConf, SparkContext}
 object GrepWord2 {
 
   //判断这行日志是否包括任何一个关键字，只要包含一个，就为true
