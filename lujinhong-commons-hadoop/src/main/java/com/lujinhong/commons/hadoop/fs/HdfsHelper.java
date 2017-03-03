@@ -1,11 +1,12 @@
 /**
  * 
  */
-package com.lujinhong.commons.hadoop.helper;
+package com.lujinhong.commons.hadoop.fs;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URI;
+import java.util.Set;
 
 import org.apache.hadoop.fs.FileStatus;
 import org.apache.hadoop.fs.FileSystem;
@@ -19,7 +20,7 @@ import org.apache.hadoop.conf.Configuration;
 * date: 2016年4月20日 上午10:32:31
 * @author LUJINHONG lu_jin_hong@163.com
 * Function: TODO ADD FUNCTION.
-* last modified: 2016年4月20日 上午10:32:31
+* last modified: 2017年3月3日 上午10:32:31
 */
 
 public class HdfsHelper {
@@ -30,7 +31,7 @@ public class HdfsHelper {
 	
 	public static HdfsHelper getHelper(Configuration conf){
 		if(helper == null){
-			helper = new HdfsHelper(_conf);
+			helper = new HdfsHelper(conf);
 		}
 		return helper;
 	}
@@ -56,6 +57,29 @@ public class HdfsHelper {
 			blockSize += stat.getLen();
 		}
 		return blockSize;
+	}
+
+	/**
+	 * 递归删除文件或目录，或者其集合
+	 * @param fileNameSet
+	 */
+	public static void  deleteFile(Set<String> fileNameSet){
+		//多次构建FileSystem对象，如果调用很频繁的话考虑用单例。
+		for(String fileName : fileNameSet){
+			deleteFile(fileName);
+		}
+	}
+	public static void  deleteFile(String fileName){
+		try(FileSystem fs = FileSystem.get(URI.create(fileName),new Configuration())){
+			if(fs.exists(new Path(fileName))){
+				fs.delete(new Path(fileName),true);
+				LOG.info("{} deleted.",fileName);
+			}
+		}catch (IOException e){
+			LOG.info("Error happens when deleting file: {}.", fileName);
+			e.printStackTrace();
+		}
+
 	}
 
 }

@@ -12,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-scala/lujinhong-commons-scala.iml" filepath="$PROJECT_DIR$/lujinhong-commons-scala/lujinhong-commons-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-spark/lujinhong-commons-spark.iml" filepath="$PROJECT_DIR$/lujinhong-commons-spark/lujinhong-commons-spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-storm/lujinhong-commons-storm.iml" filepath="$PROJECT_DIR$/lujinhong-commons-storm/lujinhong-commons-storm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-storm10/lujinhong-commons-storm10.iml" filepath="$PROJECT_DIR$/lujinhong-commons-storm10/lujinhong-commons-storm10.iml" />
     </modules>
   </component>
 </project>

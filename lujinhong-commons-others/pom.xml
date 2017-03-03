@@ -6,11 +6,10 @@
     <parent>
         <groupId>com.lujinhong</groupId>
         <artifactId>lujinhong-commons</artifactId>
-        <version>0.1-SNAPSHOT</version>
+        <version>0.2</version>
     </parent>
     <groupId>com.lujinhong</groupId>
     <artifactId>lujinhong-commons-others</artifactId>
-    <version>0.1-SNAPSHOT</version>
     <name>lujinhong-commons-others</name>
     <url>http://maven.apache.org</url>
     <properties>

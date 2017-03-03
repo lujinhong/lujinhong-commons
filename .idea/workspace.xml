@@ -2,10 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ced3993-f50d-4d2e-a1d4-c2e81ce4611a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/lbs/LBSTransformer2.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_10_2_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_10_0_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_java_0_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_10_2_3_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_remote_2_10_2_3_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_10_2_3_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_razorvine_pyrolite_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_py4j_py4j_0_8_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_client_0_98_6_hadoop2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_0_98_6_hadoop2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_0_98_6_hadoop2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_10_1_5_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_10_1_5_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_10_1_5_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_10_1_5_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_10_1_5_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_ast_2_10_3_2_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_core_2_10_3_2_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_jackson_2_10_3_2_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_4_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_10_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_10_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scalap_2_10_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_tachyonproject_tachyon_client_0_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_tachyonproject_tachyon_underfs_hdfs_0_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_tachyonproject_tachyon_underfs_local_0_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_uncommons_maths_uncommons_maths_1_2_2a.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_1_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lujinhong-commons-storm10/lujinhong-commons-storm10.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lujinhong-commons-storm10/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lujinhong-commons-storm10/src/main/java/com/lujinhong/commons/storm10/kafka.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lujinhong-commons-storm10/src/main/java/com/lujinhong/commons/storm10/mysql/Prepaid.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/helper/HdfsHelper.java" afterPath="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/HdfsHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/FileSystemDoubleCat.java" afterPath="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/FileSystemDoubleCat.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/calendar/CalendarUtils.java" afterPath="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/calendar/CalendarUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-algorithm/lujinhong-commons-algorithm.iml" afterPath="$PROJECT_DIR$/lujinhong-commons-algorithm/lujinhong-commons-algorithm.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-algorithm/pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-algorithm/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-dao/lujinhong-commons-dao.iml" afterPath="$PROJECT_DIR$/lujinhong-commons-dao/lujinhong-commons-dao.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-dao/pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-dao/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-hadoop/lujinhong-commons-hadoop.iml" afterPath="$PROJECT_DIR$/lujinhong-commons-hadoop/lujinhong-commons-hadoop.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-hadoop/pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-hadoop/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/HDFSReader.java" afterPath="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/HDFSReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-hbase/lujinhong-commons-hbase.iml" afterPath="$PROJECT_DIR$/lujinhong-commons-hbase/lujinhong-commons-hbase.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-hbase/pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-hbase/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-java/lujinhong-commons-java.iml" afterPath="$PROJECT_DIR$/lujinhong-commons-java/lujinhong-commons-java.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-java/pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-java/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-kafka/pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-kafka/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-others/dependency-reduced-pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-others/dependency-reduced-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-others/lujinhong-commons-others.iml" afterPath="$PROJECT_DIR$/lujinhong-commons-others/lujinhong-commons-others.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-others/pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-others/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-scala/lujinhong-commons-scala.iml" afterPath="$PROJECT_DIR$/lujinhong-commons-scala/lujinhong-commons-scala.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-scala/pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-scala/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-spark/lujinhong-commons-spark.iml" afterPath="$PROJECT_DIR$/lujinhong-commons-spark/lujinhong-commons-spark.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-spark/pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-spark/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/ml/knn/KNNDemo.scala" afterPath="$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/ml/knn/KNNDemo.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-storm/lujinhong-commons-storm.iml" afterPath="$PROJECT_DIR$/lujinhong-commons-storm/lujinhong-commons-storm.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons-storm/pom.xml" afterPath="$PROJECT_DIR$/lujinhong-commons-storm/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lujinhong-commons.iml" afterPath="$PROJECT_DIR$/lujinhong-commons.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="lujinhong-commons.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,6 +103,24 @@
     <ignored path="$PROJECT_DIR$/lujinhong-commons-scala/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/lujinhong-commons-spark/target/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-spark/${project.build.directory}/classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-spark/${project.build.directory}/test-classes/" />
+    <ignored path="$PROJECT_DIR$/${project.build.directory}/classes/" />
+    <ignored path="$PROJECT_DIR$/${project.build.directory}/test-classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-others/${project.build.directory}/classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-others/${project.build.directory}/test-classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-java/${project.build.directory}/classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-java/${project.build.directory}/test-classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-dao/${project.build.directory}/classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-dao/${project.build.directory}/test-classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-hbase/${project.build.directory}/classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-hbase/${project.build.directory}/test-classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-scala/${project.build.directory}/classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-scala/${project.build.directory}/test-classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-storm/${project.build.directory}/classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-storm/${project.build.directory}/test-classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-algorithm/${project.build.directory}/classes/" />
+    <ignored path="$PROJECT_DIR$/lujinhong-commons-algorithm/${project.build.directory}/test-classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,53 +145,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LBSUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/lbs/LBSUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringFormat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/string/StringFormat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="803">
+              <caret line="176" column="21" lean-forward="false" selection-start-line="176" selection-start-column="21" selection-end-line="176" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalendarUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/calendar/CalendarUtils.java">
+      <file leaf-file-name="KNNDemo.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/ml/knn/KNNDemo.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+            <state relative-caret-position="328">
+              <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileStatusDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/FileStatusDemo.java">
+      <file leaf-file-name="HdfsHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/HdfsHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileSystemDoubleCat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/FileSystemDoubleCat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="544">
+              <caret line="76" column="13" lean-forward="true" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,99 +180,90 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LBSTransformer2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/lbs/LBSTransformer2.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="243" column="20" lean-forward="true" selection-start-line="243" selection-start-column="20" selection-end-line="243" selection-end-column="20" />
+            <state relative-caret-position="467">
+              <caret line="102" column="23" lean-forward="false" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataInputStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/io/DataInputStream.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="497" column="47" lean-forward="false" selection-start-line="497" selection-start-column="47" selection-end-line="497" selection-end-column="47" />
+            <state relative-caret-position="188">
+              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FilterInputStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/io/FilterInputStream.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lujinhong-commons-spark/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+            <state relative-caret-position="528">
+              <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BufferedReader.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="380" column="18" lean-forward="false" selection-start-line="380" selection-start-column="18" selection-end-line="380" selection-end-column="18" />
+            <state relative-caret-position="-1536">
+              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calendar.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lujinhong-commons-scala/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24792">
-              <caret line="1089" column="22" lean-forward="false" selection-start-line="1089" selection-start-column="22" selection-end-line="1089" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#107759#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#40639#40640#0" expanded="false" />
-                <element signature="e#40694#40695#0" expanded="false" />
-                <element signature="e#42249#42250#0" expanded="false" />
-                <element signature="e#42296#42297#0" expanded="false" />
-                <element signature="e#44511#44512#0" expanded="false" />
-                <element signature="e#44547#44548#0" expanded="false" />
-                <element signature="e#45049#45050#0" expanded="false" />
-                <element signature="e#45086#45087#0" expanded="false" />
-                <element signature="e#51957#51958#0" expanded="false" />
-                <element signature="e#52001#52002#0" expanded="false" />
-                <element signature="e#60684#60685#0" expanded="false" />
-                <element signature="e#60741#60742#0" expanded="false" />
-                <element signature="e#64018#64019#0" expanded="false" />
-                <element signature="e#64073#64074#0" expanded="false" />
-                <element signature="e#64219#64220#0" expanded="false" />
-                <element signature="e#64273#64274#0" expanded="false" />
-                <element signature="e#64367#64368#0" expanded="false" />
-                <element signature="e#64421#64422#0" expanded="false" />
-                <element signature="e#64602#64603#0" expanded="false" />
-                <element signature="e#64656#64657#0" expanded="false" />
-                <element signature="e#77191#77192#0" expanded="false" />
-                <element signature="e#77253#77254#0" expanded="false" />
-                <element signature="e#81497#81498#0" expanded="false" />
-                <element signature="e#81524#81525#0" expanded="false" />
-                <element signature="e#81638#81639#0" expanded="false" />
-                <element signature="e#81673#81674#0" expanded="false" />
-                <element signature="e#82310#82311#0" expanded="false" />
-                <element signature="e#82348#82349#0" expanded="false" />
-                <element signature="e#82632#82633#0" expanded="false" />
-                <element signature="e#82662#82663#0" expanded="false" />
-                <element signature="e#83435#83436#0" expanded="false" />
-                <element signature="e#83472#83473#0" expanded="false" />
-                <element signature="e#84609#84610#0" expanded="false" />
-                <element signature="e#84654#84655#0" expanded="false" />
-                <element signature="e#85100#85101#0" expanded="false" />
-                <element signature="e#85128#85129#0" expanded="false" />
-                <element signature="e#85867#85868#0" expanded="false" />
-                <element signature="e#85924#85925#0" expanded="false" />
-                <element signature="e#87499#87500#0" expanded="false" />
-                <element signature="e#87556#87557#0" expanded="false" />
-                <element signature="e#88177#88178#0" expanded="false" />
-                <element signature="e#88234#88235#0" expanded="false" />
-                <element signature="e#96922#96923#0" expanded="false" />
-                <element signature="e#96962#96963#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="168">
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lujinhong-commons-kafka/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lujinhong-commons-others/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1525">
+              <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -201,12 +274,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Scala Object" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>jedis</find>
+      <find>project.version</find>
+      <find>version</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -222,7 +298,6 @@
       <list>
         <option value="$PROJECT_DIR$/lujinhong-commons-others/src/main/java/com/lujinhong/commons/others/jedis/ReferenceSelfDefineMget.java" />
         <option value="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/SmallFunctionDemo.java" />
-        <option value="$PROJECT_DIR$/lujinhong-commons-others/pom.xml" />
         <option value="$PROJECT_DIR$/lujinhong-commons-storm/src/main/java/com/lujinhong/commons/storm/drpc/DRPCHbaseGetterClient.java" />
         <option value="$PROJECT_DIR$/lujinhong-commons-storm/src/main/java/com/lujinhong/commons/storm/drpc/DRPCClientDemo.java" />
         <option value="$PROJECT_DIR$/lujinhong-commons-others/src/main/java/com/lujinhong/commons/others/solr/QueryDemo.java" />
@@ -236,14 +311,34 @@
         <option value="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/SequenceSnappyFileReader.java" />
         <option value="$PROJECT_DIR$/lujinhong-commons-others/src/main/java/com/lujinhong/commons/others/jedis/SdcDemo.java" />
         <option value="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/poi/LoadLBSInfo.java" />
-        <option value="$PROJECT_DIR$/lujinhong-commons-java/pom.xml" />
         <option value="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/poi/LBSInfoUtils.java" />
         <option value="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/lbs/LBSUtils.java" />
         <option value="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/calendar/CalendarDemo.java" />
         <option value="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/string/StringFormat.java" />
         <option value="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/calendar/CalendarUtils.java" />
-        <option value="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/FileSystemDoubleCat.java" />
         <option value="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/lbs/LBSTransformer2.java" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/FileSystemDoubleCat.java" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/HDFSReader.java" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/GrepWord.scala" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/grepword/GrepWord.scala" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/grepword/GrepWord2.scala" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/HdfsUtils.java" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/ml/knn/KNNDemo.scala" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-others/dependency-reduced-pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-java/dependency-reduced-pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-spark/dependency-reduced-pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/HdfsHelper.java" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-algorithm/pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-hbase/pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-java/pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-others/pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-scala/pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-spark/pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-storm/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lujinhong-commons-hadoop/pom.xml" />
       </list>
     </option>
   </component>
@@ -272,6 +367,12 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
@@ -299,174 +400,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons-java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons-java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons-java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons-java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons-java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lujinhong-commons-java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -513,11 +446,241 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons-storm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons-spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons-spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons-spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons-spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="knn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons-spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons-spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons-spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujinhong-commons-hadoop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -528,6 +691,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lujinhong.commons.hadoop.fs" />
       <recent name="com.lujinhong.commons.java.lbs" />
       <recent name="com.lujinhong.commons.java.calendar" />
       <recent name="com.lujinhong.commons.java.poi" />
@@ -632,6 +796,61 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="lujinhong-commons-java" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -965,6 +1184,40 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1157,6 +1410,23 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.SdcDemo" />
       <item index="1" class="java.lang.String" itemvalue="Application.SequenceSnappyFileReader" />
@@ -1209,12 +1479,18 @@
       <workItem from="1484636143219" duration="5914000" />
       <workItem from="1487148985488" duration="236000" />
       <workItem from="1487227101026" duration="5552000" />
-      <workItem from="1487586912007" duration="1497000" />
+      <workItem from="1487586912007" duration="2464000" />
+      <workItem from="1487816351472" duration="560000" />
+      <workItem from="1488251843980" duration="724000" />
+      <workItem from="1488260936227" duration="412000" />
+      <workItem from="1488261656451" duration="55000" />
+      <workItem from="1488434532195" duration="17269000" />
+      <workItem from="1488528366192" duration="2766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37917000" />
+    <option name="totallyTimeSpent" value="60670000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1230,29 +1506,36 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48808292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21246007" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22736955" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48911917" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48808292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48911917" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1293,187 +1576,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.0/jedis-2.8.0-sources.jar!/redis/clients/jedis/JedisClusterCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.0/jedis-2.8.0-sources.jar!/redis/clients/jedis/JedisSentinelPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.0/jedis-2.8.0-sources.jar!/redis/clients/util/Pool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/maxmind/db/maxmind-db/1.2.0/maxmind-db-1.2.0.jar!/com/maxmind/db/Reader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="55" column="74" lean-forward="false" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/ip/IpDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/net/InetAddress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19104">
-          <caret line="878" column="20" lean-forward="false" selection-start-line="878" selection-start-column="20" selection-end-line="878" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/src/main/java/com/lujinhong/commons/storm/drpc/DRPCHbaseGetterClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/src/main/java/com/lujinhong/commons/storm/drpc/DRPCClientDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-others/src/main/java/com/lujinhong/commons/others/solr/QueryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-others/src/main/java/com/lujinhong/commons/others/solr/IndexDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/src/main/resources/conf.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hbase/src/main/java/com/lujinhong/commons/hbase/coprocessor/MultiColumnSumProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22656">
-          <caret line="991" column="37" lean-forward="false" selection-start-line="991" selection-start-column="37" selection-end-line="991" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-others/dependency-reduced-pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/evernotetojava/EvernoteToGithub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="73" column="25" lean-forward="false" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm10/src/main/java/com/lujinhong/commons/storm10/kafka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm10/src/main/java/com/lujinhong/commons/storm10/mysql/Prepaid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/src/main/java/com/lujinhong/commons/storm/tridentstate/NameSumTopology.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="61" column="30" lean-forward="false" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/src/main/java/com/lujinhong/commons/storm/tridentstate/NameSumUpdater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/src/main/java/com/lujinhong/commons/storm/trident/mapstate/MemoryMapStateFacotry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/storm/storm-core/0.10.0/storm-core-0.10.0-sources.jar!/storm/trident/state/map/TransactionalMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="42" column="73" lean-forward="false" selection-start-line="42" selection-start-column="73" selection-end-line="42" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/48e91d13/2ac03819-c862-4ad3-aeae-17633d800887/test.test" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2ac03819-c862-4ad3-aeae-17633d800887/console.sql" />
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/src/main/java/com/lujinhong/commons/storm/tridentstate/DATA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-algorithm/src/main/java/com/lujinhong/commons/algorithm/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/src/main/java/com/lujinhong/commons/storm/tridentstate/NameSumStateFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-others/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="85" column="42" lean-forward="false" selection-start-line="85" selection-start-column="42" selection-end-line="85" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/src/main/java/com/lujinhong/commons/storm/tridentstate/NameSumState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/helper/HdfsHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="43" column="28" lean-forward="false" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1538,47 +1644,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2592">
-          <caret line="108" column="18" lean-forward="false" selection-start-line="108" selection-start-column="18" selection-end-line="108" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/poi/LBSInfoUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1536">
           <caret line="69" column="39" lean-forward="false" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/text/Format.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2856">
           <caret line="156" column="17" lean-forward="false" selection-start-line="156" selection-start-column="17" selection-end-line="156" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#15764#0" expanded="false" />
-            <element signature="e#13694#13695#0" expanded="false" />
-            <element signature="e#13729#13730#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1586,62 +1662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3048">
           <caret line="162" column="9" lean-forward="false" selection-start-line="162" selection-start-column="9" selection-end-line="162" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#55493#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#7523#7524#0" expanded="false" />
-            <element signature="e#7571#7572#0" expanded="false" />
-            <element signature="e#8472#8473#0" expanded="false" />
-            <element signature="e#8524#8525#0" expanded="false" />
-            <element signature="e#10666#10667#0" expanded="false" />
-            <element signature="e#10696#10697#0" expanded="false" />
-            <element signature="e#29388#29389#0" expanded="false" />
-            <element signature="e#29452#29453#0" expanded="false" />
-            <element signature="e#29988#29989#0" expanded="false" />
-            <element signature="e#30066#30067#0" expanded="false" />
-            <element signature="e#31917#31918#0" expanded="false" />
-            <element signature="e#31967#31968#0" expanded="false" />
-            <element signature="e#32765#32766#0" expanded="false" />
-            <element signature="e#32818#32819#0" expanded="false" />
-            <element signature="e#34182#34183#0" expanded="false" />
-            <element signature="e#34227#34228#0" expanded="false" />
-            <element signature="e#34823#34824#0" expanded="false" />
-            <element signature="e#34872#34873#0" expanded="false" />
-            <element signature="e#35356#35357#0" expanded="false" />
-            <element signature="e#35403#35404#0" expanded="false" />
-            <element signature="e#36016#36017#0" expanded="false" />
-            <element signature="e#36069#36070#0" expanded="false" />
-            <element signature="e#36655#36656#0" expanded="false" />
-            <element signature="e#36702#36703#0" expanded="false" />
-            <element signature="e#37303#37304#0" expanded="false" />
-            <element signature="e#37356#37357#0" expanded="false" />
-            <element signature="e#37656#37657#0" expanded="false" />
-            <element signature="e#37692#37693#0" expanded="false" />
-            <element signature="e#38648#38649#0" expanded="false" />
-            <element signature="e#38708#38709#0" expanded="false" />
-            <element signature="e#39170#39171#0" expanded="false" />
-            <element signature="e#39230#39231#0" expanded="false" />
-            <element signature="e#39926#39927#0" expanded="false" />
-            <element signature="e#40007#40008#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/lbs/LBSUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/string/StringFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1649,70 +1669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24792">
           <caret line="1089" column="22" lean-forward="false" selection-start-line="1089" selection-start-column="22" selection-end-line="1089" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#107759#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#40639#40640#0" expanded="false" />
-            <element signature="e#40694#40695#0" expanded="false" />
-            <element signature="e#42249#42250#0" expanded="false" />
-            <element signature="e#42296#42297#0" expanded="false" />
-            <element signature="e#44511#44512#0" expanded="false" />
-            <element signature="e#44547#44548#0" expanded="false" />
-            <element signature="e#45049#45050#0" expanded="false" />
-            <element signature="e#45086#45087#0" expanded="false" />
-            <element signature="e#51957#51958#0" expanded="false" />
-            <element signature="e#52001#52002#0" expanded="false" />
-            <element signature="e#60684#60685#0" expanded="false" />
-            <element signature="e#60741#60742#0" expanded="false" />
-            <element signature="e#64018#64019#0" expanded="false" />
-            <element signature="e#64073#64074#0" expanded="false" />
-            <element signature="e#64219#64220#0" expanded="false" />
-            <element signature="e#64273#64274#0" expanded="false" />
-            <element signature="e#64367#64368#0" expanded="false" />
-            <element signature="e#64421#64422#0" expanded="false" />
-            <element signature="e#64602#64603#0" expanded="false" />
-            <element signature="e#64656#64657#0" expanded="false" />
-            <element signature="e#77191#77192#0" expanded="false" />
-            <element signature="e#77253#77254#0" expanded="false" />
-            <element signature="e#81497#81498#0" expanded="false" />
-            <element signature="e#81524#81525#0" expanded="false" />
-            <element signature="e#81638#81639#0" expanded="false" />
-            <element signature="e#81673#81674#0" expanded="false" />
-            <element signature="e#82310#82311#0" expanded="false" />
-            <element signature="e#82348#82349#0" expanded="false" />
-            <element signature="e#82632#82633#0" expanded="false" />
-            <element signature="e#82662#82663#0" expanded="false" />
-            <element signature="e#83435#83436#0" expanded="false" />
-            <element signature="e#83472#83473#0" expanded="false" />
-            <element signature="e#84609#84610#0" expanded="false" />
-            <element signature="e#84654#84655#0" expanded="false" />
-            <element signature="e#85100#85101#0" expanded="false" />
-            <element signature="e#85128#85129#0" expanded="false" />
-            <element signature="e#85867#85868#0" expanded="false" />
-            <element signature="e#85924#85925#0" expanded="false" />
-            <element signature="e#87499#87500#0" expanded="false" />
-            <element signature="e#87556#87557#0" expanded="false" />
-            <element signature="e#88177#88178#0" expanded="false" />
-            <element signature="e#88234#88235#0" expanded="false" />
-            <element signature="e#96922#96923#0" expanded="false" />
-            <element signature="e#96962#96963#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/calendar/CalendarUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/FileStatusDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1720,7 +1676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="380" column="18" lean-forward="false" selection-start-line="380" selection-start-column="18" selection-end-line="380" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1728,7 +1683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1736,25 +1690,288 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="497" column="47" lean-forward="false" selection-start-line="497" selection-start-column="47" selection-end-line="497" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/FileSystemDoubleCat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/lbs/LBSTransformer2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="243" column="20" lean-forward="true" selection-start-line="243" selection-start-column="20" selection-end-line="243" selection-end-column="20" />
+        <state relative-caret-position="5040">
+          <caret line="230" column="40" lean-forward="false" selection-start-line="230" selection-start-column="40" selection-end-line="230" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/lbs/LBSUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/string/StringFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/src/main/java/com/lujinhong/commons/java/calendar/CalendarUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1968">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-scala/src/main/scala/com/lujinhong/commons/scala/ImplicitClassDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-scala/src/main/scala/com/lujinhong/commons/scala/ImplicitParameterDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-scala/src/main/scala/com/lujinhong/commons/scala/Tuple2Demo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/HDFSReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/FileStatusDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-scala/src/main/scala/com/lujinhong/commons/scala/R/scala.java" />
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-scala/src/main/scala/com/lujinhong/commons/scala/InvokeJavaClass.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-scala/lujinhong-commons-scala.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-scala/src/main/scala/com/lujinhong/commons/scala/IODemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/GrepWord.scala" />
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/grepword/GrepWord.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/grepword/GrepWord2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/ml/basic/RunIntro.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="84" column="14" lean-forward="false" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/DeleteFileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-others/dependency-reduced-pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/dependency-reduced-pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-spark/dependency-reduced-pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/helper/HdfsHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="40" column="4" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-algorithm/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-dao/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hbase/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-java/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1536">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-kafka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-others/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1525">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-scala/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-storm/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="102" column="23" lean-forward="false" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="176" column="21" lean-forward="false" selection-start-line="176" selection-start-column="21" selection-end-line="176" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-spark/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-spark/src/main/scala/com/lujinhong/commons/spark/ml/knn/KNNDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lujinhong-commons-hadoop/src/main/java/com/lujinhong/commons/hadoop/fs/HdfsHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="76" column="13" lean-forward="true" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

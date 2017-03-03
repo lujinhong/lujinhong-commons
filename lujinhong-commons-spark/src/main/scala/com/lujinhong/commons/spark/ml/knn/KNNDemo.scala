@@ -1,8 +1,8 @@
 package com.lujinhong.commons.spark.ml.knn
 
 import org.apache.spark.SparkContext
-
 import scala.collection.mutable.{SortedSet,HashMap}
+import com.lujinhong.commons.hadoop.fs.HdfsHelper
 
 /**
   * AUTHOR: LUJINHONG
@@ -36,6 +36,7 @@ object KNNDemo {
   val FEMALE_LABLE = "0"
 
   def main(args: Array[String]): Unit = {
+    HdfsHelper.deleteFile(OUTPUT_PATH)
     val sc = new SparkContext()
     var traingDataSetBroadcast = sc.broadcast(sc.textFile(TRAINING_DATA_PATH).collect().toSet);
     sc.textFile(TO_DO_DATA_PATH).map(line => classify(line, traingDataSetBroadcast.value)).saveAsTextFile(OUTPUT_PATH)

@@ -2,34 +2,37 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
+
   <parent>
     <groupId>com.lujinhong</groupId>
     <artifactId>lujinhong-commons</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.2</version>
   </parent>
+
   <groupId>com.lujinhong</groupId>
   <artifactId>lujinhong-commons-hadoop</artifactId>
-  <version>0.1-SNAPSHOT</version>
   <name>lujinhong-commons-hadoop</name>
   <url>http://maven.apache.org</url>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+
   <dependencies>
-    <dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-api</artifactId>
-			<version>1.7.0</version>
-		</dependency>
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.7.0</version>
-		</dependency>
-		<dependency>
-			<groupId>log4j</groupId>
-			<artifactId>log4j</artifactId>
-			<version>1.2.17</version>
-		</dependency>
+    <!--<dependency>-->
+			<!--<groupId>org.slf4j</groupId>-->
+			<!--<artifactId>slf4j-api</artifactId>-->
+			<!--<version>${slf4j.version}</version>-->
+		<!--</dependency>-->
+		<!--<dependency>-->
+			<!--<groupId>org.slf4j</groupId>-->
+			<!--<artifactId>slf4j-log4j12</artifactId>-->
+			<!--<version>${slf4j.version}</version>-->
+		<!--</dependency>-->
+		<!--<dependency>-->
+			<!--<groupId>log4j</groupId>-->
+			<!--<artifactId>log4j</artifactId>-->
+			<!--<version>${log4j.version}</version>-->
+		<!--</dependency>-->
   </dependencies>
 </project>
