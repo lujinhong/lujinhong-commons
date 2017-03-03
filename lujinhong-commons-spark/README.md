@@ -1,11 +1,11 @@
-1. hbase:
+1 hbase:
 
 way to use hbase in spark code
 
-2. grepword
+2 grepword
 
 grep word in hdfs by spark
 
-3. ml.knn
+3 ml.knn
 
 demo for knn algorithm
