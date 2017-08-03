@@ -34,6 +34,7 @@
 		<module>lujinhong-commons-hadoop</module>
 		<module>lujinhong-commons-spark</module>
 		<module>lujinhong-commons-others</module>
+		<module>lujinhong-commons-ml</module>
 	</modules>
 
 

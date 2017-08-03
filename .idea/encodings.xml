@@ -7,11 +7,11 @@
     <file url="file://$PROJECT_DIR$/lujinhong-commons-hadoop" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lujinhong-commons-hbase" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lujinhong-commons-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lujinhong-commons-ml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lujinhong-commons-others" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lujinhong-commons-scala" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lujinhong-commons-spark" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lujinhong-commons-storm" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/lujinhong-commons-storm10" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-hadoop/lujinhong-commons-hadoop.iml" filepath="$PROJECT_DIR$/lujinhong-commons-hadoop/lujinhong-commons-hadoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-hbase/lujinhong-commons-hbase.iml" filepath="$PROJECT_DIR$/lujinhong-commons-hbase/lujinhong-commons-hbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-java/lujinhong-commons-java.iml" filepath="$PROJECT_DIR$/lujinhong-commons-java/lujinhong-commons-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-ml/lujinhong-commons-ml.iml" filepath="$PROJECT_DIR$/lujinhong-commons-ml/lujinhong-commons-ml.iml" />
       <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-others/lujinhong-commons-others.iml" filepath="$PROJECT_DIR$/lujinhong-commons-others/lujinhong-commons-others.iml" />
       <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-scala/lujinhong-commons-scala.iml" filepath="$PROJECT_DIR$/lujinhong-commons-scala/lujinhong-commons-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/lujinhong-commons-spark/lujinhong-commons-spark.iml" filepath="$PROJECT_DIR$/lujinhong-commons-spark/lujinhong-commons-spark.iml" />

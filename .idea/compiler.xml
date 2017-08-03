@@ -11,6 +11,7 @@
         <module name="lujinhong-commons-hadoop" />
         <module name="lujinhong-commons-hbase" />
         <module name="lujinhong-commons-java" />
+        <module name="lujinhong-commons-ml" />
         <module name="lujinhong-commons-others" />
         <module name="lujinhong-commons-scala" />
         <module name="lujinhong-commons-spark" />
@@ -24,6 +25,7 @@
       <module name="lujinhong-commons-hadoop" target="1.7" />
       <module name="lujinhong-commons-hbase" target="1.7" />
       <module name="lujinhong-commons-java" target="1.7" />
+      <module name="lujinhong-commons-ml" target="1.7" />
       <module name="lujinhong-commons-others" target="1.7" />
       <module name="lujinhong-commons-scala" target="1.7" />
       <module name="lujinhong-commons-spark" target="1.7" />

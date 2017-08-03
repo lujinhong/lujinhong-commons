@@ -83,7 +83,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty:3.6.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty:3.6.6.Final" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jruby.jcodings:jcodings:1.0.8" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jruby.joni:joni:2.1.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.hadoop:hadoop-hdfs:2.6.0-cdh5.6.0" level="project" />
