@@ -16,7 +16,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<local.repo.path>file:///Users/liaoliuqing/.m2/repository</local.repo.path>
 		<jdk.version>1.7</jdk.version>
-		<hadoop.version>2.6.0-cdh5.6.0</hadoop.version>
+		<hadoop.version>2.7.0</hadoop.version>
 		<spark.version>2.0.2</spark.version>
 		<hbase.version>1.0.0-cdh5.6.0</hbase.version>
 		<slf4j.version>1.7.0</slf4j.version>
